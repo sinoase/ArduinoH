@@ -1,6 +1,6 @@
-# ArduinoH
+<html><h1 align="center">ArduinoH</h1></html>
 ## Sketch for programing and control outputs using serial
-<html><p>Hola</p></html>
+
 License Apache 2.0: https://www.apache.org/licenses/LICENSE-2.0
 
 
